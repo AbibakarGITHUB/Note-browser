@@ -19,7 +19,7 @@ OpenAI - AI integration
 📦 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/browser-notes-app.git
+git clone https://https://github.com/AbibakarGITHUB/Note-browser
 cd browser-notes-app
 
 Install dependencies:
